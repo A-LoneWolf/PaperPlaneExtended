@@ -93,7 +93,7 @@ async def bot_support(wannahelp):
 
 @register(outgoing=True, pattern="^.creator$")
 async def creator(e):
-    await e.edit("[AvinashReddy3108](https://t.me/AvinashReddy3108)")
+    await e.edit("[LoneWolf](https://t.me/AvinashReddy3108)")
 
 
 @register(outgoing=True, pattern="^.readme$")
